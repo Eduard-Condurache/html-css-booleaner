@@ -1,0 +1,86 @@
+
+body, html {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.background-header {
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    height: 80px;
+}
+
+#logo {
+    width: 15%;
+    text-align: right;
+}
+
+#titolo-pagina {
+    font-weight:bolder;
+    font-size: 35px;
+}
+
+#the-booleaner {
+    color:#2bade6
+}
+
+h3 {
+    color: #959595;
+}
+
+.photo-description {
+    font-size: 13px;
+    font-weight: bold;
+
+}
+
+.text-weight {
+    font-weight:bold;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+
+    
+.tabel-head {
+    background-color:#20a9e5;
+    color: white;
+}
+
+.table-backgroundcolor {
+    background-color: #b1e5f2;
+}
+
+td {
+    width: 20px;
+    height: 40px;
+}
+
+
+.stacked-image {
+    display: block;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+  }
+
+.immagine1 {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+.immagine2 {
+    position: absolute;
+    top: 230px;
+    left: 16px;
+}
